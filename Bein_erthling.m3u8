@@ -15,4 +15,5 @@ https://stream.supertv.gg:3009/supertv/sport/stv12/ch6/ch6_1080.m3u8
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch7/ch7_1080.m3u8
 #EXTINF:-1 tvg-name="Bein sport 8" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
 https://stream.supertv.gg:3009/supertv/sport/stv12/ch8/ch8_1080.m3u8
-
+#EXTINF:-1 tvg-name="TEST" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+http://v111.co:80/live/1234512345/12345/103071.m3u8
