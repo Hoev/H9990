@@ -1,6 +1,4 @@
 #EXTM3U
-
-# ---- Lite Group ----
 #EXTINF:-1 tvg-name="Bein sport 1" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 1
 https://stream.tvhub.tv:32123/bein-sport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 2" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 2
@@ -17,8 +15,6 @@ https://stream.tvhub.tv:32123/bein-sport6/tracks-v1a1/mono.m3u8
 https://stream.tvhub.tv:32123/bein-sport7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 8" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="Lite", Bein sport 8
 https://stream.tvhub.tv:32123/bein-sport8/tracks-v1a1/mono.m3u8
-
-# ---- Cast Group ----
 #EXTINF:-1 tvg-name="Cast Channel 1" group-title="Cast", Cast Channel 1
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1IPa_hn32-FEAlKEhxFlIlKKRUdVQRnrqukIfEA9QS7Km3QggmeiamWIUD7hW41EB5K7LlN-ZuZO_oa7Hx36UQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-name="Cast Channel 2" group-title="Cast", Cast Channel 2
