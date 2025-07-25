@@ -1,30 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein sport 1" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 2" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 3" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 4" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 5" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 6" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 7" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
-
-
-
+https://stream.tvhub.tv:32123/bein-sport7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Bein sport 8" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://stream.tvhub.tv:32123/bein-sport8/tracks-v1a1/mono.m3u8
