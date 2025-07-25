@@ -1,8 +1,30 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXTINF:-1 tvg-name="Bein sport 1" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
 
-# Video master
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.4d401f",RESOLUTION=1280x720,AUDIO="a1"
-https://stream.veo.buzz:6086/enter/ch17/ch17_1080.m3u8
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="a1",NAME="التعليق العربي",LANGUAGE="ar",AUTOSELECT=YES,DEFAULT=YES,URI="https://het101z.4rouwanda-shop.store/live/4798998070/index.m3u8"
+
+#EXTINF:-1 tvg-name="Bein sport 2" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+
+
+
+#EXTINF:-1 tvg-name="Bein sport 3" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+
+
+
+#EXTINF:-1 tvg-name="Bein sport 4" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+
+
+
+#EXTINF:-1 tvg-name="Bein sport 5" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+
+
+
+#EXTINF:-1 tvg-name="Bein sport 6" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+
+
+
+#EXTINF:-1 tvg-name="Bein sport 7" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+
+
+
+#EXTINF:-1 tvg-name="Bein sport 8" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
