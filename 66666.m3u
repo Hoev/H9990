@@ -1,0 +1,43 @@
+	#EXTM3U
+#EXTINF:-1 tvg-name="Bein sport 1" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/JdOhIQVWE8KOh3A9T1_b_Yj9AcaMJ7NR5bACDtoP13pxCYYdPbSS8EBYGVPOUT0sonVg62UnbsGsJthfnXwdpA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Bein sport 2" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zLSpHhbduZuongUbiRwLzZ89ed_NHXtwRfCCFoR5n2l1_m93HNvEwgCaa4UfD_pQNrt2PFwa4MZndu8ZxXUs8w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
+#EXTINF:-1 tvg-name="Bein sport 3" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/rDCjLeHQa0FuqWEhUOK0GN6sE_xU6qi6xR1nMbx2SfzClLCZHPSZ9vvfREK0kyRwXMt-hf_dAZYKjrD1dWp3bA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Bein sport 4" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/zqVsDOkTfc7Ux00-_BOPkrwRvhZRXpSH4jzXv0Gq82vUeG06m16nAccKxWUVvf_kg2QlALZL1-21JcymG2679Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Bein sport 5" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BS_17vAyeV6Xlxz3k-JdVpI7REwoco8tzExsUh82NM17V3_sc3FJDEbZol00tSh6wXJ8GJwIMu45MR7dZrkzLA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Bein sport 6" tvg-logo="https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg" group-title="General"
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vhD5olcPvwFet-CWCN6U-p1dGLFDAsyFOeMKZESPMryWbg1yKpNwXgX3UX3RWRRt2BTTGsnelGvMC0htEEfbDA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Veo 1" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch1/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 2" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch2/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 3" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 4" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch4/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 5" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch5/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 6" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch6/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 7" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch7/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 8" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch8/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 9" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch9/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 10" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch10/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 11" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch11/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 12" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch12/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 13" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch13/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 14" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch14/adaptive.m3u8
+#EXTINF:-1 tvg-name="Veo 15" tvg-logo="https://iili.io/FrIgbzg.png" group-title="Veo TV"
+https://stream.veo.buzz:6050/sport/ch15/adaptive.m3u8
